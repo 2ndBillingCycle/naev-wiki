@@ -1,4 +1,4 @@
-# Compiling Win
+
 This is a short guide on how to set up a compiling environment on Windows, and using it to compile Naev.
 
 ## Setting up your compiling environment
