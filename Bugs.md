@@ -4,7 +4,8 @@ This article describes steps you can take if you run into a problem with Naev.
 If you want to report a bug, you can do so in the following ways:
 
 * Tracker: Open an issue on the issue tracker. Make sure to include all the relevant information, such as when and where the problem occurs and the backtrace if applicable.
-* IRC: Join our IRC channel and report the problem there. The IRC channel is #naev on irc.freenode.net (web chat).
+* Discord: Join the discord channel and report the problem there. You can join with the [discord invite](https://discord.gg/nd2M5BR).
+* IRC: Join our IRC channel and report the problem there. The IRC channel is #naev on irc.freenode.net.
 * ~~Forum: Post about your problem in the technical support forum.~~
 
 In all cases, try to see if your bug has already been reported by looking at the forum and issue tracker!
