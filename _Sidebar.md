@@ -1,13 +1,8 @@
 # [[Home]]
-
-[[System Requirements]]
-
-[[FAQ]]
-
-[[Bugs]]
-
-[[Compiling-Nix]]
-
-[[Compiling-Win]]
-
-[[Mission-Ideas]]
+## [[System Requirements]]
+## [[FAQ]]
+## [[Bugs]]
+# Development
+## [[Compiling-Nix]]
+## [[Compiling-Win]]
+## [[Mission-Ideas]]
