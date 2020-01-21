@@ -1,8 +1,8 @@
-[[Home]]
+### [[Home]]
 * [[System Requirements]]
 * [[FAQ]]
 * [[Bugs]]
-Development
+### Development
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
 * [[Mission-Ideas]]
