@@ -1,7 +1,13 @@
 [[Home]]
+
 [[System Requirements]]
+
 [[FAQ]]
+
 [[Bugs]]
+
 [[Compiling-Nix]]
+
 [[Compiling-Win]]
+
 [[Mission-Ideas]]
