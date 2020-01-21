@@ -24,9 +24,9 @@ A Za'lek scientist hires you to disable and board progressively larger Soromid s
 
 ## FLF Missions
 ### Dirty Dirty Bomb
-Too long to have here: Dirty Dirty Bomb. Basically FLF morality and the bombing of civilians.
+Too long to have here: [[Dirty Dirty Bomb]]. Basically FLF morality and the bombing of civilians.
 
 
 ## Other
 ### Ultimate Lifeform
-Too long to have here: Ultimate Lifeform. Basically Soromid have created a synthetic life form that is out of control.
+Too long to have here: [[Ultimate Lifeform]]. Basically Soromid have created a synthetic life form that is out of control.
