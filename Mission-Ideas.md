@@ -16,6 +16,9 @@ A Za'lek scientist's assistant contacts you through the mission computer and ask
 ### Insane businessman
 A successful, aging businessman commissions you to investigate a number of increasingly-improbable conspiracies, growing progressively more agitated as you fail to find evidence that supports his conspiracy theories. Eventually, deciding that you're working for the Man and involved in a plot to kill him, he sends mercenaries after you and goes into hiding.
 
+### The simulated universe
+Some guy has gone crazy and is convinced he is in a simulation and wants to try to get out. He keeps on making the player try crazier and crazier things to have the player prove his theory with the guy in question dying at the end.
+
 
 ## Za'lek Missions
 ### Bioweapon
