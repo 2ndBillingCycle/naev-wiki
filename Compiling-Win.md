@@ -11,14 +11,16 @@ For 32-bit users:
 pacman -S mingw-w64-i686-gcc mingw-w64-i686-SDL2 mingw-w64-i686-SDL2_mixer \
 mingw-w64-i686-libxml2 mingw-w64-i686-libpng mingw-w64-i686-openal \
 mingw-w64-i686-libvorbis mingw-w64-i686-binutils mingw-w64-i686-freetype \
-mingw-w64-i686-libzip autoconf automake-wrapper git pkgconfig make
+mingw-w64-i686-libzip autoconf automake-wrapper git pkgconfig make \
+intltool mingw-w64-i686-fontconfig mingw-w64-i686-luajit
 ```
 For 64-bit users:
 ```
 pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-SDL2 mingw-w64-x86_64-SDL2_mixer \
 mingw-w64-x86_64-libxml2 mingw-w64-x86_64-libpng mingw-w64-x86_64-openal \
 mingw-w64-x86_64-libvorbis mingw-w64-x86_64-binutils mingw-w64-x86_64-freetype \
-mingw-w64-x86_64-libzip autoconf automake-wrapper git pkgconfig make
+mingw-w64-x86_64-libzip autoconf automake-wrapper git pkgconfig make \
+intltool mingw-w64-x86_64-fontconfig mingw-w64-x86_64-luajit
 ```
 When asked to proceed with the installation, press y and hit enter.
 
