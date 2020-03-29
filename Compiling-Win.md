@@ -31,7 +31,7 @@ Clone the git repo. You can do this by entering:
 ```
 git clone https://github.com/naev/naev.git <dir>
 ```
-Where <dir> is the name of the subdirectory to clone into.
+Where \<dir\> is the name of the subdirectory to clone into.
 
 Before trying to build, make sure you are in the folder of your git repo. In case it wasn't obvious, you can use the following command:
 
