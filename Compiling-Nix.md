@@ -75,6 +75,42 @@ Or, if you would rather build with SDL 1.2, use the following:
 ```
 pacman -S --needed sdl sdl_image sdl_mixer libxml2 freetype2 libpng libvorbis libzip
 ```
+## Fedora and Other RHEL-based Distributions
+First, make sure you have make, automake and gcc installed:
+
+```
+sudo dnf install make automake gcc
+```
+
+To compile and build Naev with SDL2 you'll need to install the following packages:
+
+```
+sudo dnf install SDL2-devel SDL2_image-devel SDL2_mixer-devel libxml2-devel \
+fontconfig-devel libpng12-devel openal-soft-devel libvorbis-devel binutils-devel \
+libzip-devel gettext-devel mesa-libGLU-devel
+```
+
+For running the compiled binary, you'll need the following packages installed:
+
+```
+sudo dnf install SDL2 SDL2_mixer SDL2_image mesa-libGLU libxml2 \
+fontconfig libpng12 openal-soft libvorbis libzip 
+```
+
+To compile and build Naev with SDL 1.2 you'll need to install the following packages:
+
+```
+sudo dnf install SDL-devel SDL_image-devel SDL_mixer-devel libxml2-devel \
+fontconfig-devel libpng12-devel openal-soft-devel libvorbis-devel binutils-devel \
+libzip-devel gettext-devel mesa-libGLU-devel
+```
+
+For running the compiled binary, you'll need the following packages installed::
+
+```
+sudo dnf install SDL SDL_mixer SDL_image mesa-libGLU libxml2 \
+fontconfig libpng12 openal-soft libvorbis libzip 
+```
 
 ## Compiling
 First, clone the Git repository.
