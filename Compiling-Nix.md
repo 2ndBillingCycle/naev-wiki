@@ -105,7 +105,7 @@ fontconfig-devel libpng12-devel openal-soft-devel libvorbis-devel binutils-devel
 libzip-devel gettext-devel mesa-libGLU-devel
 ```
 
-For running the compiled binary, you'll need the following packages installed::
+For running the compiled binary, you'll need the following packages installed:
 
 ```
 sudo dnf install SDL SDL_mixer SDL_image mesa-libGLU libxml2 \
