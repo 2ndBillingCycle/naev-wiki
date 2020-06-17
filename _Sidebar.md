@@ -4,10 +4,13 @@
 * [[Bugs]]
 ### Lore
 * [[History]]
+  * [[The Incident]]
 * [[The Empire]]
 * [[House Dvaered]]
 * [[House Sirius]]
 * [[The Soromid]]
+* [[The Frontier]]
+  * [[Frontier Liberation Front]]
 ### Development
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
