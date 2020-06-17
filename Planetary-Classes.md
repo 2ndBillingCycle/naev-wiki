@@ -1,9 +1,14 @@
 Naev planetary classes are based on [Star Trek planetary classes](https://stexpanded.fandom.com/wiki/Planet_classifications).
 
+Station classes:
+
 * Class 0: Civilian stations and small outposts
 * Class 1: Major military stations and outposts
 * Class 2: Collective stations
 * Class 3: Pirate strongholds
+
+Planet classes:
+
 * Class A: Geothermal
 * Class B: Geomorteus (Mercury-like)
 * Class C: Geoinactive
