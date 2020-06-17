@@ -13,6 +13,8 @@
 * [[The Soromid]]
 * [[Frontier Alliance]]
   * [[Frontier Liberation Front]]
+* [[Galactic Pirates]]
+* [[The Collective]]
 ### Development
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
