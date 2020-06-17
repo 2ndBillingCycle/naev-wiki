@@ -29,4 +29,6 @@ Planet classes:
 * Class R: Rogue (temperate due to geothermal venting)
 * Class S: Ultragiant (comprised of gaseous compounds)
 * Class T: Ultragiant (comprised of gaseous compounds)
-* Class X, Y and Z: Demon (very hot, toxic, and inhospitable)
+* Class X: Demon (very hot, toxic, and inhospitable)
+* Class Y: Demon (very hot, toxic, and inhospitable)
+* Class Z: Shattered (formerly hospitable planet which has become toxic and inhospitable)
