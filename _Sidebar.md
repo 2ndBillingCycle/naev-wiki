@@ -6,6 +6,7 @@
 * [[History]]
 * [[The Empire]]
 * [[House Dvaered]]
+* [[House Sirius]]
 ### Development
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
