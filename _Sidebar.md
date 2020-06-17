@@ -7,6 +7,7 @@
 * [[The Empire]]
 * [[House Dvaered]]
 * [[House Sirius]]
+* [[The Soromid]]
 ### Development
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
