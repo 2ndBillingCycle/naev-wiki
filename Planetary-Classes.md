@@ -9,23 +9,24 @@ Station classes:
 
 Planet classes:
 
-* Class A: Geothermal
-* Class B: Geomorteus (Mercury-like)
-* Class C: Geoinactive
-* Class D: Asteroid/Moon-like
-* Class E: Geoplastic
-* Class F: Geometallic
-* Class G: Geocrystaline
-* Class H: Desert
-* Class I: Gas Supergiant
-* Class J: Gas Giant (Jupiter-like)
-* Class K* Adaptable (Mars-like)
-* Class L: Marginal
+* Class A: Geothermal (partially molten)
+* Class B: Geomorteus (partially molten, high temperature; Mercury-like)
+* Class C: Geoinactive (low temperature)
+* Class D: Asteroid/Moon-like (barren with no or little atmosphere)
+* Class E: Geoplastic (molten, high temperature)
+* Class F: Geometallic (volcanic)
+* Class G: Geocrystaline (crystalizing)
+* Class H: Desert (hot and arid, little or no water)
+* Class I: Gas Supergiant (comprised of gaseous compounds)
+* Class J: Gas Giant (comprised of gaseous compounds, Jupiter-like)
+* Class K* Adaptable (barren, little or no water, Mars-like)
+* Class L: Marginal (rocky and barren, little water)
 * Class M: Terrestrial (Earth-like)
-* Class N: Reducing (Venus-like)
-* Class O: Pelagic
-* Class P: Glaciated
+* Class N: Reducing (high temperature, Venus-like)
+* Class O: Pelagic (very water-abundant)
+* Class P: Glaciated (very water-abundant with ice)
 * Class Q: Variable
-* Class R: Rogue
-* Class S and T: Ultragiants
-* Class X, Y and Z: Demon
+* Class R: Rogue (temperate due to geothermal venting)
+* Class S: Ultragiant (comprised of gaseous compounds)
+* Class T: Ultragiant (comprised of gaseous compounds)
+* Class X, Y and Z: Demon (very hot, toxic, and inhospitable)
