@@ -3,6 +3,7 @@
 * [[FAQ]]
 * [[Bugs]]
 ### Lore
+* [[History]]
 * [[The Empire]]
 ### Development
 * [[Compiling-Nix]]
