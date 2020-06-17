@@ -9,7 +9,7 @@
 * [[House Dvaered]]
 * [[House Sirius]]
 * [[The Soromid]]
-* [[The Frontier]]
+* [[Frontier Alliance]]
   * [[Frontier Liberation Front]]
 ### Development
 * [[Compiling-Nix]]
