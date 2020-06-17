@@ -5,6 +5,7 @@
 ### Lore
 * [[History]]
 * [[The Empire]]
+* [[House Dvaered]]
 ### Development
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
