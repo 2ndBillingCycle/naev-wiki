@@ -3,7 +3,7 @@
 * [[FAQ]]
 * [[Bugs]]
 ### Lore
-* [[Universal Standard Time]]
+* [[Universal Synchronized Time]]
 * [[History]]
   * [[The Incident]]
 * [[The Empire]]
