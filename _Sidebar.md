@@ -20,5 +20,6 @@
 ### Development
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
+* [[Coding Style]]
 * [[Mission-Ideas]]
 * [[Spoilers]]
