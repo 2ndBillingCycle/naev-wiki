@@ -23,7 +23,7 @@ Which honors the spirit of the forum?
 - GitHub issue tracker
 -->
 
-We're always open to feedback and contributions, you can contact us via [IRC][naev-freenode] or post on the [forum][naev-forum] (_archived_).
+We're always open to feedback and contributions, you can contact us via [IRC][naev-freenode] or [discord][].
 
 Downloads for many operating systems can be found at the [downloads page][downloads].
 
@@ -113,5 +113,5 @@ Luckily, if you become hostile with a major faction, most of them offer rehabili
 
 [escape-velocity-wiki]: <https://en.wikipedia.org/wiki/Escape_Velocity_(video_game)> "Escape Velocity on Wikipedia"
 [naev-freenode]: <http://webchat.freenode.net/?channels=naev> "#naev on Freenode"
-[naev-forum]: <https://web.archive.org/web/20190414185706/http://forum.naev.org/> "An archive of the Naev forum on The Wayback Machine"
+[discord]: <https://discord.gg/nd2M5BR> "Naev Discord"
 [downloads]: <https://naev.org/downloads/> "Naev downloads"
