@@ -23,3 +23,12 @@ The following is a chart of all time units used in Naev along with the correspon
 | Periods      | "p"          | 10,000 seconds | ~2 hours and 47 minutes  | Hours     |
 | Decaperiods  | N/A          | 10 periods     | ~28 hours                | Days      |
 | Cycles       | N/A          | 5,000 periods  | ~579 days                | Years     |
+
+# Time passage
+
+Following is a list of actions and how much time they take in Naev.
+
+* **Flying in space**: For ships with a [[Time Dilation]] rate of 100% (that is, most small ships), time passes at a rate of 30 seconds per real-world second, which is why the GUI's clock increases by 0.01p every 3⅓ seconds. For ships with higher time dilation the passage of time is faster, and for ships with lower time dilation the passage of time is slower.
+* **Landed**: Time does not pass while landed.
+* **Takeoff**: Taking off takes 1 period, which means that stopping to refuel during time-sensitive missions is generally a bad idea.
+* **Jumping**: Hyperspace jumps also take time, generally 1 period per jump, though some ships such as the Quicksilver take less.
