@@ -91,37 +91,15 @@ Slot sizes serve as an upper limit. You can't place a large outfit into a medium
 
 ## Time
 
-> Main article: [[Time]]
+Time in Naev is all standardized according to the Universal Synchronized Time (UST). This is a uniform way to express time across the entire galaxy. A full explanation can be found in the [[Universal Synchronized Time]] article.
 
-Time in Naev is all standardized according to the Universal Synchronized Time (UST). This is a uniform way to express time across the entire galaxy.
+There are five commonly used units:
 
-There are three time units in common use, explained below. Currently, time is written as `SCU:STP.hSTU`; a real example might be **`UST 603:3728.91`**.
-
-### Time units
-
-- **STU (Standard Time Unit)**  
-  Smallest named time unit. Equal to the Earth second.
-  - hSTU: Also known as the hectoSTU, equal to 100 STU. Its usage in-game is broadly equivalent to a minute. Ship chronometers commonly use this as the smallest displayed unit.
-
-- **STP (Standard Time Period)**  
-  Most commonly used time unit. STPs are the new hours. 1 STP = 10,000 STU (about 2.8 Earth hours).
-
-- **SCU (Standard Cycle Unit)**  
-  Used for long-term time periods. 1 SCU = 5000 STP (about 579 Earth days, or a year and seven months). In informal situations this is generally called a "cycle".
-
-### Time passage
-
-- **Flying in space**  
-  When in space, time passes at a rate of 30 STU per second, which is why the GUI's clock increases by 0.01 STP every 3⅓ seconds.
-
-- **Landed**  
-  Time does not pass while landed.
-
-- **Takeoff**  
-  Taking off takes 1 STP, which means that stopping to refuel during time-sensitive missions is generally a bad idea.
-
-- **Jumping**  
-  Hyperspace jumps also take time, generally 1 STP per jump, though some ships such as the Quicksilver take less.
+* **Seconds** are equivalent to Earth seconds and used in the same way.
+* **Hectoseconds** are used in the same way as Earth minutes.
+* **Periods** are used in the same way as Earth hours.
+* **Decaperiods** are used in the same way as Earth days.
+* **Cycles** are used in the same way as Earth years.
 
 ## Reputation
 
