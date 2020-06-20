@@ -4,6 +4,7 @@
 * [[Bugs]]
 ### Lore
 * [[History]]
+  * [[The Incident]]
 * [[The Empire]]
   * [[House Dvaered]]
   * [[House Sirius]]
