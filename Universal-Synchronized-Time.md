@@ -1,5 +1,7 @@
 Universal Synchronized Time (UST) is the standard time system in Naev.
 
+# Explanation
+
 UST consists of three basic components describing different amounts of time: the second, which is equivalent to an Earth second; the period, which is equal to 10,000 seconds; and the cycle, which is equal to 5,000 periods (50,000,000 seconds). In colloquial usage, the terms "decaperiod" (equivalent to 10 periods) and "hectosecond" (equivalent to 100 seconds) are also common. UST dates are written in the form:
 
 * UST C:PPPP.SSSS
