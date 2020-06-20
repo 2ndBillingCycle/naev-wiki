@@ -3,6 +3,7 @@
 * [[FAQ]]
 * [[Bugs]]
 ### Lore
+* [[Universal Synchronized Time]]
 * [[History]]
   * [[The Incident]]
 * [[The Empire]]
@@ -20,3 +21,4 @@
 * [[Compiling-Nix]]
 * [[Compiling-Win]]
 * [[Mission-Ideas]]
+* [[Spoilers]]

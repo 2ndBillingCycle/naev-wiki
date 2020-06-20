@@ -45,7 +45,7 @@ The Empire found itself forced to cede territory and political control to the ne
 
 # The Incident
 
-Little is known about the Incident, other than what can be observed. An eruption of some kind occurred which decimated all planets in Sol and several systems around it. In its wake it left a dense, volatile nebula that has proven almost impregnable to most means of observation. Nobody ever came out of that nebula to tell what happened.
+Little is known about [[the Incident]], other than what can be observed. An eruption of some kind occurred which decimated all planets in Sol and several systems around it. In its wake it left a dense, volatile nebula that has proven almost impregnable to most means of observation. Nobody ever came out of that nebula to tell what happened.
 
 The Empire was shaken to the core. With Earth lost, along with most of the Imperial bureaucracy, the Imperial leadership floundered, taking almost a cycle to re-establish itself in Gamma Polaris. Such a show of weakness caused whatever loyalty the Empire had left from the Great Houses to evaporate, to the point that it's now a public secret that the Empire no longer holds any sway over anybody else.
 
