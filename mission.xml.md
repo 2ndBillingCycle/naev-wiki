@@ -6,21 +6,21 @@ The root tag contains multiple &lt;mission&gt; tags, which define individual mis
 The following XML snippet demonstrates all the tags that can make up the XML portion of a NAEV mission:
 
 ```
-&lt;mission name="Example 2"&gt;
- &lt;lua&gt;example2&lt;/lua&gt;
- &lt;flags&gt;
-  &lt;unique /&gt;
- &lt;/flags&gt;
- &lt;avail&gt;
-  &lt;priority&gt;5&lt;/priority&gt;
-  &lt;cond&gt;var.peek(boolean_condition) == true&lt;/cond&gt;
-  &lt;done&gt;Example 1&lt;/done&gt;
-  &lt;chance&gt;220&lt;/chance&gt;
-  &lt;location&gt;Computer&lt;/location&gt;
-  &lt;faction&gt;Some Faction&lt;/faction&gt;
-  &lt;planet&gt;Some Planet&lt;/planet&gt;
- &lt;/avail&gt;
-&lt;/mission&gt;
+<mission name="Example 2">
+ <lua>example2</lua>
+ <flags>
+  <unique />
+ </flags>
+ <avail>
+  <priority>5</priority>
+  <cond>var.peek(boolean_condition) == true</cond>
+  <done>Example 1</done>
+  <chance>220</chance>
+  <location>Computer</location>
+  <faction>Some Faction</faction>
+  <planet>Some Planet</planet>
+ </avail>
+</mission>
 ```
 
 # Tag by Tag Explanation of the Mission XML
