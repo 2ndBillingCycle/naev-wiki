@@ -1,9 +1,3 @@
-# Manual
-
-<!--TOC-->
-
-## Introduction
-
 Welcome to the Naev player's manual.
 
 This manual is a work in progress. If there's anything you feel it needs, feel free to let us know via forum or this page's discussion tab.
@@ -16,13 +10,6 @@ Naev is a 2D space trading and combat game, taking inspiration from the [Escape 
 
 You pilot a space ship from a top-down perspective, and are more or less free to do what you want. As the genre name implies, you're able to trade and engage in combat at will. Beyond that, there's an ever-growing number of storyline missions, equipment, and ships; Even the galaxy itself grows larger with each release. For the literarily-inclined, there are large amounts of lore accompanying everything from planets to equipment.
 
-<!--
-Which honors the spirit of the forum?
-
-- Discord
-- GitHub issue tracker
--->
-
 We're always open to feedback and contributions, you can contact us via [IRC][naev-freenode] or [discord][].
 
 Downloads for many operating systems can be found at the [downloads page][downloads].
@@ -31,14 +18,6 @@ Downloads for many operating systems can be found at the [downloads page][downlo
 
 > Main article: [[Keybinds]]
 
-<!--
-How are keyboard entries best rendered?
-
-- <kbd>Ctrl+X</kbd>
-- <kbd>Ctrl</kbd>`+`<kbd>X</kbd>
-- <kbd>Ctrl</kbd>+<kbd>X</kbd>
-- <kbd>Ctrl</kbd><kbd>X</kbd>
--->
 While Naev is primarily keyboard-oriented, mouse flying can also be toggled by clicking the middle mouse button or <kbd>Ctrl</kbd><kbd>X</kbd> by default. This will cause your ship to point towards the cursor, and by default engage the engines as well.
 
 ## Outfits
@@ -95,11 +74,18 @@ Time in Naev is all standardized according to the Universal Synchronized Time (U
 
 There are five commonly used units:
 
-* **Seconds** are equivalent to Earth seconds and used in the same way.
-* **Hectoseconds** are used in the same way as Earth minutes.
-* **Periods** are used in the same way as Earth hours.
-* **Decaperiods** are used in the same way as Earth days.
-* **Cycles** are used in the same way as Earth years.
+<dl>
+  <dt><strong>Seconds</strong></dt>
+  <dd>equivalent to Earth seconds and used in the same way.</dd>
+  <dt><strong>Hectoseconds</strong></dt>
+  <dd>used in the same way as Earth minutes.</dd>
+  <dt><strong>Periods</strong></dt>
+  <dd>used in the same way as Earth hours.</dd>
+  <dt><strong>Decaperiods</strong></dt>
+  <dd>used in the same way as Earth days.</dd>
+  <dt><strong>Cycles</strong></dt>
+  <dd>used in the same way as Earth years.</dd>
+</dl>
 
 ## Reputation
 
