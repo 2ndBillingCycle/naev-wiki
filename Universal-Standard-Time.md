@@ -16,10 +16,10 @@ When describing lengths of time, it is commonplace for computer systems to indic
 
 The following is a chart of all time units used in Naev along with the corresponding Earth time unit they are similar to in terms of where they are used.
 
-| UST unit     | Abbreviation | Length of Time | Similar To |
-|:-------------|:-------------|:---------------|:-----------|
-| Seconds      | "s"          | 1 Earth second | Seconds    |
-| Hectoseconds | N/A          | 100 seconds    | Minutes    |
-| Periods      | "p"          | 1,000 seconds  | Hours      |
-| Decaperiods  | N/A          | 10 periods     | Days       |
-| Cycles       | N/A          | 5,000 periods  | Years      |
+| UST unit     | Abbreviation | Length of Time | Equal to (in Earth time) | Used like |
+|:-------------|:-------------|:---------------|:-------------------------|:----------|
+| Seconds      | "s"          | 1 Earth second | 1 second                 | Seconds   |
+| Hectoseconds | N/A          | 100 seconds    | 1 minute and 40 seconds  | Minutes   |
+| Periods      | "p"          | 10,000 seconds | ~2 hours and 47 minutes  | Hours     |
+| Decaperiods  | N/A          | 10 periods     | ~28 hours                | Days      |
+| Cycles       | N/A          | 5,000 periods  | ~579 days                | Years     |
