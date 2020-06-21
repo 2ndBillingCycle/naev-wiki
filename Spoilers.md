@@ -30,11 +30,7 @@ By UST 496, the Thurion had constructed a fully self-sufficient hidden colony ov
 
 ## Project Collective
 
-Project Collective was the final Great Project initiated by the Empire, designed to advance the Empire's military. The project developed technology for robotic drones which would serve as combat craft unmatched in all the galaxy, capable of tearing a target to shreds without any direct human involvement. By UST 590, the project was successful. However, officials in charge of the project resolved to seize power over the Empire using said technology, believing that the Empire was no longer fit to rule the galaxy.
-
-Their timing was spot-on, as it turned out. By the time the Collective was ready to launch its attack, the Incident had just occurred, tearing the Empire apart and rendering it utterly incapable of properly responding to the Collective invasion. In the ensuing chaos, many worlds, including Eiroik, were sterilized until the Empire finally managed to hold the Collective back at Omega Station.
-
-The Empire now has a plan to take out the Collective. Little do they know, however, that there is more to the Collective than they realize, hidden in systems that the Empire and other major factions have not yet discovered. The Collective may seem like an easy opponent, but its full strength is yet to be realized.
+Project Collective was the final Great Project initiated by the Empire, designed to advance the Empire's military. The project developed technology for robotic drones which would serve as combat craft unmatched in all the galaxy, capable of tearing a target to shreds without any direct human involvement. By UST 590, the project was successful. However, unbeknownst to the Empire at the time, Project Collective had also gone rogue. The successes of the project were kept a secret, and the Collective now bided their time, waiting for the perfect moment to strike.
 
 # The Hypergate
 
@@ -61,6 +57,10 @@ But they didn't make it. The Proteron's hacking of the Sol hypergate had caused 
 This was the event that would become known as [[The Incident]]. South of the Nebula, no one would find out the cause. Even the Empire itself couldn't piece together what had happened, since all those who worked on the hypergate project were now dead, including the then-Emperor himself.
 
 But the Proteron were hit the hardest. While not annihilated as those on the southern end of the Nebula have speculated, nearly all of the Proteron worlds were wiped out, important personnel were killed, and the experimental hypergate the Proteron had built was destroyed. Once a major economic force on the galaxy, the Proteron were now decimated and cut off from the rest of the galaxy.
+
+# The Collective
+
+Time, as it turned out, was swiftly on the side of [[the Collective]], as it turned out. When news of the Incident spread, the Collective went on an immediate offensive, taking advantage of the ensuing chaos and strife within the Empire. The drones went forth and attacked all military stations and even civilian colonies, sparing no one. Of particular note, Eiroik, once a thriving Imperial mining colony, was completely sterilized. This continued until the Empire eventually managed to contain the Collective in the Fortitude system, cutting them off from the rest of the galaxy. The two sides have been locked in a stalemate ever since then.
 
 # The Proteron
 
