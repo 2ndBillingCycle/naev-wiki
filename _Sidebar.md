@@ -21,5 +21,5 @@
 * [[Compiling on *nix]]
 * [[Compiling on Windows]]
 * [[Coding Style]]
-* [[Mission-Ideas]]
+* [[Mission Ideas]]
 * [[Spoilers]]
