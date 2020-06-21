@@ -30,7 +30,7 @@ By UST 496, the Thurion had constructed a fully self-sufficient hidden colony ov
 
 ## Project Collective
 
-Project Collective was the final Great Project initiated by the Empire, designed to advance the Empire's military. The project developed technology for robotic drones which would serve as combat craft unmatched in all the galaxy, capable of tearing a target to shreds without any direct human involvement. By UST 590, the project was successful. However, unbeknownst to the Empire at the time, Project Collective had also gone rogue. The successes of the project were kept a secret, and the Collective now bided their time, waiting for the perfect moment to strike.
+Project Collective was the final Great Project initiated by the Empire, designed to advance the Empire's military. The project developed technology for robotic drones which would serve as combat craft unmatched in all the galaxy, capable of tearing a target to shreds without any direct human involvement. By UST 590, the project was successful. However, unbeknownst to the Empire at the time, Project Collective had also gone rogue. Corrupt Empire officials banded together and repurposed the project for their own galactic dominance. As such, the completion of the project was kept a secret, and the rogue Empire officials now bided their time, waiting for the perfect moment to strike. Little did they know that the Empire, for the past 18 cycles, had been brewing the exact circumstance to give the Collective the exact sort of opportunity it sought.
 
 # The Hypergate
 
@@ -60,7 +60,7 @@ But the Proteron were hit the hardest. While not annihilated as those on the sou
 
 # The Collective
 
-Time, as it turned out, was swiftly on the side of [[the Collective]], as it turned out. When news of the Incident spread, the Collective went on an immediate offensive, taking advantage of the ensuing chaos and strife within the Empire. The drones went forth and attacked all military stations and even civilian colonies, sparing no one. Of particular note, Eiroik, once a thriving Imperial mining colony, was completely sterilized. This continued until the Empire eventually managed to contain the Collective in the Fortitude system, cutting them off from the rest of the galaxy. The two sides have been locked in a stalemate ever since then.
+Time, as it turned out, was swiftly on the side of [[the Collective]]. When news of the Incident spread, the Collective went on an immediate offensive, taking advantage of the ensuing chaos and strife within the Empire. The drones went forth and attacked all military stations and even civilian colonies, sparing no one. Of particular note, Eiroik, once a thriving Imperial mining colony, was completely sterilized. This continued until the Empire eventually managed to contain the Collective in the Fortitude system, cutting them off from the rest of the galaxy. The two sides have been locked in a stalemate ever since then.
 
 # The Proteron
 
