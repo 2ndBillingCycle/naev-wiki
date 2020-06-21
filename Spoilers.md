@@ -28,6 +28,14 @@ For some time, the Thurion (named after the project that started their existence
 
 By UST 496, the Thurion had constructed a fully self-sufficient hidden colony over the Nava, Vean, and Flow systems, and the sham colonies were abandoned in such a way that it appeared the colonists had died. They then dropped nearly all interaction with non-Thurion humanity, only making connection when needed to gather intelligence on current affairs. This was becoming an increasingly difficult process as the Thurion found it more and more difficult to gain unauthorized access to government and military computer systems, let alone those of House Za'lek, whose encryption was far too powerful for the Thurion to ever hope to crack. The Thurion were unfazed, however, content to bide their time, producing ships and other technologies to give themselves a level of military life. They planned to one day rejoin humanity and awe them, encouraging everyone to join them and assimilate with them in a grand new world.
 
+## Project Collective
+
+Project Collective was the final Great Project initiated by the Empire, designed to advance the Empire's military. The project developed technology for robotic drones which would serve as combat craft unmatched in all the galaxy, capable of tearing a target to shreds without any direct human involvement. By UST 590, the project was successful. However, officials in charge of the project resolved to seize power over the Empire using said technology, believing that the Empire was no longer fit to rule the galaxy.
+
+Their timing was spot-on, as it turned out. By the time the Collective was ready to launch its attack, the Incident had just occurred, tearing the Empire apart and rendering it utterly incapable of properly responding to the Collective invasion. In the ensuing chaos, many worlds, including Eiroik, were sterilized until the Empire finally managed to hold the Collective back at Omega Station.
+
+The Empire now has a plan to take out the Collective. Little do they know, however, that there is more to the Collective than they realize, hidden in systems that the Empire and other major factions have not yet discovered. The Collective may seem like an easy opponent, but its full strength is yet to be realized.
+
 # The Hypergate
 
 By UST standard cycle 572, the Emperor was growing impatient. The Great Projects were not shaping up quite as well as the Emperor had hoped, and while most could not see it, the Empire's grasp on its control of the galaxy was slipping.
