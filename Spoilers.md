@@ -98,7 +98,7 @@ Privacy of personal memories is still heavily respected as an uploaded Thurion, 
 
 Over time, usually only after hundreds of cycles, it is not uncommon for uploaded Thurions to decide that they have lived a fulfilling life. When this happens, they are able to terminate their existence. While the number of Thurions who have made this decision is in the minority, and in fact all of the original uploaded Thurions are still alive today, the decision is respected as a valid choice for a Thurion who feels that they have lived their life to its fullest extent.
 
-View of the Outside
+## View of the Outside
 
 The Thurion had feared discovery of the Empire up until the Incident, and while they still fear their discovery as it would disrupt their plans, the Thurion are now significantly less afraid of the other powers present. The Thurion are not aware of the survival of the Proteron, presuming them to be dead just like everyone else in the galaxy.
 
