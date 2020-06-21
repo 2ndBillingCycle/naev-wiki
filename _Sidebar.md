@@ -19,7 +19,7 @@
 * [[The Collective]]
 ### Development
 * [[Compiling-Nix]]
-* [[Compiling-Win]]
+* [[Compiling on Windows]]
 * [[Coding Style]]
 * [[Mission-Ideas]]
 * [[Spoilers]]
