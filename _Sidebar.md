@@ -18,7 +18,7 @@
 * [[Galactic Pirates]]
 * [[The Collective]]
 ### Development
-* [[Compiling-on-*nix]]
+* [[Compiling on *nix]]
 * [[Compiling on Windows]]
 * [[Coding Style]]
 * [[Mission-Ideas]]
