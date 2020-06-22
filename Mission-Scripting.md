@@ -10,11 +10,11 @@ A mission is offered to the player through one of several means. Most missions a
 
 To make a mission work, the following is needed:
 
-- An entry in [[Mission.xml|mission.xml]]
+- An entry in [[mission.xml]]
 
   The master mission index (found in [`dat/mission.xml`][dat-mission]) is what the game uses for reference. This file determines the in-game name of the mission, and it tells the game where the mission script is located. It also tells the game when and where to spawn the mission. Note that the path for the mission file is relative to [`dat/missions/`][dat-missions].
 
-  See the [[Mission.xml]] article for more information.
+  See the [[mission.xml]] article for more information.
 
 - A `create()` function in the mission script
 
