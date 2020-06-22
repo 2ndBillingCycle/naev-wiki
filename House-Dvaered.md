@@ -15,10 +15,12 @@ Eager to claim their place among the other big players, the then-time Dvaered le
 ## Government
 
 Today, House Dvaered is ruled by the Generals of the Dvaered military. The amount of Generals varies from time to time, but there are always enough to feed the fires of internal discord. Influence is usually determined by the amount of medals and commendations a General has collected in his career. This at least stands undisputed, for House Dvaered has extensive protocols for dispensing awards. In fact, it can be considered a constitution of sorts.
-Warlords
+
+### Warlords
 
 When a General retires from High Command, he often takes with him a small contingent of the armed forces. These are soldiers and captains who have sworn allegiance to the man, not the banner, and they will continue to serve until the bitter end. The General, now known as a Warlord, will then use his little private army to secure rule over one or more Dvaered worlds, usually by usurping the position from another Warlord. This method of local government is commonly accepted to be legal, and no Dvaered citizen will be surprised when suddenly a new set of local laws will be passed to replace another.
-Citizens
+
+### Citizens
 
 The Dvaered citizenry itself is barely worthy of the name. There is often more squalor than culture, and more often than not the Dvaered will seek employment in the military, despite the dangers that represents. Nevertheless, there certainly is a Dvaered elite. They often concentrate on the few truly hospitable worlds in Dvaered space, where they pursue their idea of luxury.
 
