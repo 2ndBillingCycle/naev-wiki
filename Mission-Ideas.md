@@ -2,7 +2,7 @@ These are some ideas for storylines that could fit into the world of Naev. If yo
 
 Some of these ideas are already being implemented, while others are ready to be turned into a mission in the game.
 
-There have been lots of idea proposed over the years, and with the loss of the old website, these are only somewhat accessible through [archive.org][]:
+There have been lots of ideas proposed over the years, and with the loss of the old website, these are only somewhat accessible through [archive.org][]:
 
 - [Forum][]
 - [Google Group][]
