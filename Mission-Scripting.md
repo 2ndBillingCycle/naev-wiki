@@ -6,15 +6,15 @@ A Lua script is a plaintext file using the `.lua` file extension. No special too
 
 ## How missions work
 
-A mission is offered to the player through one of several means. Most missions are started when the player has landed and talks to an NPC in the spaceport bar, but it's also possible for missions to start in space. Typically, the player will be given a brief explanation of what the mission is about, as well as the opportunity to decline. Once the mission starts, the player may choose to cancel the mission at any time by going to the Information Menu (default key <kbd>i</kbd>), selecting the mission on the **Missions** tab and clicking the **abort** button. Otherwise, the player can complete or fail the mission, depending on their performance.
+A mission is offered to the player through one of several means. Most missions are started when the player has landed and talks to an NPC in the spaceport bar, but it's also possible for missions to start in space. Typically, the player will be given a brief explanation of what the mission is about, as well as the opportunity to decline. Once the mission starts, the player may choose to cancel the mission at any time by going to the Information Menu (default key <kbd>i</kbd>), selecting the mission on the **`Missions`** tab and clicking the **`abort`** button. Otherwise, the player can complete or fail the mission, depending on their performance.
 
 To make a mission work, the following is needed:
 
-- An entry in [[Mission.xml|mission.xml]]
+- An entry in [[mission.xml]]
 
   The master mission index (found in [`dat/mission.xml`][dat-mission]) is what the game uses for reference. This file determines the in-game name of the mission, and it tells the game where the mission script is located. It also tells the game when and where to spawn the mission. Note that the path for the mission file is relative to [`dat/missions/`][dat-missions].
 
-  See the [[Mission.xml]] article for more information.
+  See the [[mission.xml]] article for more information.
 
 - A `create()` function in the mission script
 
