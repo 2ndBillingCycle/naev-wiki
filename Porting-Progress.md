@@ -33,7 +33,7 @@ Completed by [Layla 丸][onpon4]
 | [House Goddard][]             | [[House Goddard]]             |
 | [House Sirius][]              | [[House Sirius]]              |
 | [House Za'Lek][]              | [[House Za'Lek]]              |
-| [Pirates][]                   | [Galactic Pirates][]          |
+| [Pirates][]                   | [[Galactic Pirates]]          |
 | [Proteron][]                  | [[House Proteron]]            |
 | [Soromid][]                   | [[The Soromid]]               |
 | [The Empire][]                | [[The Empire]]                |
