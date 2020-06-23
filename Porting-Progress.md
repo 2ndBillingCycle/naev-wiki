@@ -54,9 +54,9 @@ _Category page missing from [archive.org][gameplay]_
 
 ### Completed
 
-| Old Title  | New Title  |
-| ---------- | ---------- |
-| [Manual][] | [[Manual]] |
+| Old Title                | New Title  |
+| ------------------------ | ---------- |
+| [Manual][manual-archive] | [[Manual]] |
 
 ### Incomplete
 
@@ -101,10 +101,10 @@ _Category missing from [archive.org][ships]_
 
 ### Completed
 
-|Old Title|New Title|
-|-|-|
-|[Mission.xml][]|[[mission.xml]]|
-|[Coding Style][]|[[Coding Style]]|
+| Old Title        | New Title        |
+| ---------------- | ---------------- |
+| [Mission.xml][]  | [[mission.xml]]  |
+| [Coding Style][] | [[Coding Style]] |
 
 ### Incomplete
 
@@ -217,7 +217,7 @@ These articles do not need to be ported.
 [soromid campaign]: <http://web.archive.org/web/20171214011032/http://wiki.naev.org/wiki/Soromid_Campaign> "Soromid Campaign page from the old Naev wiki on archive.org"
 [pirate campaign]: <http://web.archive.org/web/20171214011026/http://wiki.naev.org/wiki/Pirate_Campaign> "Pirate Campaign page from the old Naev wiki on archive.org"
 [incident campaign]: <http://web.archive.org/web/20171203093720/http://wiki.naev.org/wiki/Incident_Campaign> "Incident Campaign page from the old Naev wiki on archive.org"
-[manual]: <http://web.archive.org/web/20180216010414/http://wiki.naev.org/wiki/Manual> "Manual page from the old Naev wiki on archive.org"
+[manual-archive]: <http://web.archive.org/web/20180216010414/http://wiki.naev.org/wiki/Manual> "Manual page from the old Naev wiki on archive.org"
 [naev]: <http://web.archive.org/web/20180127045307/http://wiki.naev.org/wiki/Naev> "Naev page from the old Naev wiki on archive.org"
 [outfits]: <http://web.archive.org/web/20180218045500/http://wiki.naev.org/wiki/Outfits> "Outfits page from the old Naev wiki on archive.org"
 [slots]: <http://web.archive.org/web/20180213223212/http://wiki.naev.org/wiki/Slots> "Slots page from the old Naev wiki on archive.org"
