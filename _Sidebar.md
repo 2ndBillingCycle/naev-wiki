@@ -1,8 +1,11 @@
 ### [[Home]]
+
 * [[System Requirements]]
 * [[FAQ]]
 * [[Bugs]]
+
 ### Lore
+
 * [[Universal Synchronized Time]]
 * [[History]]
   * [[The Incident]]
@@ -17,9 +20,11 @@
   * [[Frontier Liberation Front]]
 * [[Galactic Pirates]]
 * [[The Collective]]
+* [[Spoilers]]
+
 ### Development
+
 * [[Compiling on *nix]]
 * [[Compiling on Windows]]
 * [[Coding Style]]
 * [[Mission Ideas]]
-* [[Spoilers]]
