@@ -27,4 +27,5 @@
 * [[Compiling on *nix]]
 * [[Compiling on Windows]]
 * [[Coding Style]]
+* [[Campaign Structure]]
 * [[Mission Ideas]]
