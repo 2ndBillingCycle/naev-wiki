@@ -65,7 +65,14 @@ _Category page missing from [archive.org][gameplay]_
 
 ## [Mission][mission-archive]
 
-- [ ] [Campaign Structure][campaign structure-archive]
+### Complete
+
+| Old Title                                        | New Title              |
+| ------------------------------------------------ | ---------------------- |
+| [Campaign Structure][campaign structure-archive] | [[Campaign Structure]] |
+
+### Incomplete
+
 - [ ] [Goddard Mini-campaign][goddard mini-campaign-archive]
 - [ ] [Incident Campaign][incident campaign-archive]
 - [ ] [Neutral Defense Missions Planning][neutral defense missions planning-archive]
