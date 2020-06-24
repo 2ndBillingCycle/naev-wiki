@@ -79,7 +79,7 @@ Structure slots also include one required Engines slot and one required Hull slo
 
 ### Slot Sizes
 
-The three slot sizes are small, medium, and large. Currently, these sizes are represented in-game by colored backgrounds: <span style="color:yellow">yellow</span>, <span style="color:green">green</span>, and <span style="color:blue">blue</span>, respectively. (To be supplemented with something colorblind-friendly later on, most likely icons; see #868 for progress on that.)
+The three slot sizes are small, medium, and large. Currently, these sizes are represented in-game by colored backgrounds: <span style="color:yellow">yellow</span>, <span style="color:green">green</span>, and <span style="color:blue">blue</span>, respectively. (To be supplemented with something colorblind-friendly later on, most likely icons; see [#868](https://github.com/naev/naev/issues/868) for progress on that.)
 
 Slot sizes serve as an upper limit. You can't place a large outfit into a medium slot, but you can put a medium outfit into a large slot.
 
