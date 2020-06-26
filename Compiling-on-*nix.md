@@ -29,23 +29,7 @@ For compiling, you'll need the additional:
 ```
 apt-get install build-essential automake libsdl2-dev libsdl2-image-dev \
 libgl1-mesa-dev libxml2-dev libfreetype6-dev libpng12-dev libopenal-dev \
-libvorbis-dev binutils-dev libzip-dev libiberty-dev autopoint intltoolize
-```
-
-## Older Debian-based Distributions
-To build with SDL 1.2 on older Debian and Ubuntu releases, install the following:
-
-```
-apt-get install libsdl1.2debian libsdl-mixer1.2 libgl1-mesa-dri \
-libxml2 libfreetype6 libpng12-0 libopenal1 libvorbis0a libzip2
-```
-
-For compiling, you'll need the additional:
-
-```
-apt-get install build-essential automake libsdl-image1.2-dev libsdl-mixer1.2-dev \
-libgl1-mesa-dev libxml2-dev libfreetype6-dev libpng12-dev libopenal-dev \
-libvorbis-dev binutils-dev libzip-dev autopoint intltoolize
+libvorbis-dev binutils-dev libzip-dev libiberty-dev autopoint intltoolize autoconf-archive
 ```
 
 ## Gentoo
