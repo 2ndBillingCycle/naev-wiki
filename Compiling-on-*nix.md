@@ -79,7 +79,7 @@ pacman -S --needed sdl sdl_image sdl_mixer libxml2 freetype2 libpng libvorbis li
 First, make sure you have make, automake and gcc installed:
 
 ```
-sudo dnf install make automake gcc
+sudo dnf install make automake gcc intltool
 ```
 
 To compile and build Naev you'll need to install the following packages:
