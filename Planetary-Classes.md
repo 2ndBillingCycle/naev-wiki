@@ -19,7 +19,7 @@ Planet classes:
 * Class H: Desert (hot and arid, little or no water)
 * Class I: Gas Giant (comprised of gaseous compounds, Saturn-like)
 * Class J: Gas Giant (comprised of gaseous compounds, Jupiter-like)
-* Class K* Adaptable (barren, little or no water, Mars-like)
+* Class K: Adaptable (barren, little or no water, Mars-like)
 * Class L: Marginal (rocky and barren, little water)
 * Class M: Terrestrial (Earth-like)
 * Class N: Reducing (high temperature, Venus-like)
