@@ -30,7 +30,7 @@ For compiling, you'll need the additional:
 apt-get install build-essential automake libsdl2-dev libsdl2-image-dev \
   libgl1-mesa-dev libxml2-dev libfreetype6-dev libpng12-dev libopenal-dev \
   libvorbis-dev binutils-dev libzip-dev libiberty-dev autopoint intltool \
-  autoconf-archive libfontconfig1-dev
+  autoconf-archive libfontconfig1-dev itstool
 ```
 
 ## Gentoo
