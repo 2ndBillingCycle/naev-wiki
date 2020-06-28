@@ -17,7 +17,7 @@ Planet classes:
 * Class F: Geometallic (volcanic)
 * Class G: Geocrystaline (crystalizing)
 * Class H: Desert (hot and arid, little or no water)
-* Class I: Gas Supergiant (comprised of gaseous compounds)
+* Class I: Gas Giant With Rings (comprised of gaseous compounds, Saturn-like)
 * Class J: Gas Giant (comprised of gaseous compounds, Jupiter-like)
 * Class K* Adaptable (barren, little or no water, Mars-like)
 * Class L: Marginal (rocky and barren, little water)
