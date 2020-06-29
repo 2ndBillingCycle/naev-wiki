@@ -4,8 +4,8 @@ Station classes:
 
 * Class 0: Civilian stations and small outposts
 * Class 1: Major military stations and outposts
-* Class 2: Collective stations
-* Class 3: Pirate strongholds
+* Class 2: Pirate strongholds
+* Class 3: Collective stations
 
 Planet classes:
 
