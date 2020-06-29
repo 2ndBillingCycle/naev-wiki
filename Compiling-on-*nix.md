@@ -72,7 +72,7 @@ To compile and build Naev you'll need to install the following packages:
 ```sh
 sudo dnf install SDL2-devel SDL2_image-devel SDL2_mixer-devel libxml2-devel \
   fontconfig-devel libpng12-devel openal-soft-devel libvorbis-devel binutils-devel \
-  libzip-devel gettext-devel mesa-libGLU-devel
+  libzip-devel gettext-devel mesa-libGLU-devel itstool
 ```
 
 For running the compiled binary, you'll need the following packages installed:
