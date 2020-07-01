@@ -5,7 +5,7 @@ The root tag contains multiple &lt;mission&gt; tags, which define individual mis
 
 The following XML snippet demonstrates all the tags that can make up the XML portion of a NAEV mission:
 
-```
+```xml
 <mission name="Example 2">
  <lua>example2</lua>
  <flags>
