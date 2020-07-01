@@ -204,14 +204,16 @@ my_pilot = my_fleet[1]
 
 ### Including code
 
-In Lua you may include other Lua files. Doing so will give you access to the code in those Lua files as if you copy-pasted it into your own code. There are some useful, generic functions available in the [`dat/scripts/`][dat-scripts] directory. The include path is relative to the `naev` binary. For example, including the file [`dat/scripts/jumpdist.lua`][jumpdist] would look like:
+In Lua, you may import other Lua files with the `require()` function. Doing so will give you access to the code in those Lua files as if you copy-pasted it into your own file. There are some useful, generic functions available in scripts in the [`dat/scripts/`][dat-scripts] directory. The include path is passed as a string, and is relative to the `naev` binary. For example, including the file [`dat/scripts/jumpdist.lua`][jumpdist] would look like:
 
 ```lua
 -- include external code
-include "scripts/jumpdist.lua"
+require "scripts/jumpdist.lua"
 -- Get a table of all systems at least 2 and at most 3 jumps away from the current system
 my_table = getsysatdistance(system.cur(), 2, 3)
 ```
+
+The `require()` function should behave similarly to Lua's [`require`][lua-require] function, but is only intended to be used to import functionality from scripts that are already part of Naev.
 
 ### Making timer-based cutscenes
 
