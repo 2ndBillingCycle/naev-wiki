@@ -4,8 +4,8 @@ Station classes:
 
 * Class 0: Civilian stations and small outposts
 * Class 1: Major military stations and outposts
-* Class 2: Collective stations
-* Class 3: Pirate strongholds
+* Class 2: Pirate strongholds
+* Class 3: Collective stations
 
 Planet classes:
 
@@ -17,9 +17,9 @@ Planet classes:
 * Class F: Geometallic (volcanic)
 * Class G: Geocrystaline (crystalizing)
 * Class H: Desert (hot and arid, little or no water)
-* Class I: Gas Supergiant (comprised of gaseous compounds)
+* Class I: Gas Giant (comprised of gaseous compounds, Saturn-like)
 * Class J: Gas Giant (comprised of gaseous compounds, Jupiter-like)
-* Class K* Adaptable (barren, little or no water, Mars-like)
+* Class K: Adaptable (barren, little or no water, Mars-like)
 * Class L: Marginal (rocky and barren, little water)
 * Class M: Terrestrial (Earth-like)
 * Class N: Reducing (high temperature, Venus-like)

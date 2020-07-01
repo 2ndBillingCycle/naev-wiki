@@ -22,6 +22,10 @@
 * [[The Collective]]
 * [[Spoilers]]
 
+### [[Manual]]
+
+* [[Planetary Classes]]
+
 ### Development
 
 * [[Compiling on *nix]]

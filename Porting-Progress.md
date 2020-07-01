@@ -41,7 +41,7 @@ Completed by [Layla 丸][onpon4]
 
 ## [Gameplay][gameplay-archive]
 
-_Category page missing from [archive.org][gameplay]_
+_Category page missing from [archive.org][gameplay-archive]_
 
 - [ ] [Reputation][reputation-archive]
 
