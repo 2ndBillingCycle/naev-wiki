@@ -2,7 +2,7 @@ Like any XML document, [`dat/mission.xml`][] contains exactly one root element. 
 
 The root element contains multiple `<mission></mission>` child elements, which define individual missions.
 
-## Sample Mission Tag
+## Sample Mission Element
 
 The following XML snippet demonstrates all the tags that can make up the XML portion of a Naev mission:
 
