@@ -32,10 +32,11 @@ This is a clear way to document. However, doxygen does not exclude you from docu
 
 ## Indentation
 
-We use 3 spaces instead of tabs. This can be achieved by putting the following in your ~/.vimrc:
+We use 3 spaces instead of tabs. This can be achieved by putting the following in your `~/.vimrc`:
 
-```
+```vim
 set tabstop=3           " indents
+set softtabstop=3       " treat 3 spaces as a single character (when deleting)
 set shiftwidth=3        " more indents
 set expandtab           " use spaces instead of tabs
 ```
