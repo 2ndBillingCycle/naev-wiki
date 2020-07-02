@@ -11,7 +11,7 @@ The exact coding style for Naev has been asked before. First off let's mention t
 
 It is FUNDAMENTAL that everything be clearly documented. To help with this it's generally a good idea to use doxygen. For example we can do:
 
-```
+```c
 /**
  * @brief Checks if a foo_t is bar.
  *
@@ -45,19 +45,19 @@ set expandtab           " use spaces instead of tabs
 
 Generally we declare functions as:
 
-```
+```c
 type function( type1* param1, type param2 );
 ```
 
 However if there are no parameters we do it as:
 
-```
+```c
 type function (void);
 ```
 
 With brackets we do:
 
-```
+```c
 type function (void)
 {
    some_code();
@@ -68,7 +68,7 @@ type function (void)
 
 We declare variables at the top of the function right after the opening bracket. Note that when declaring pointers we do differently from function declarations. For example:
 
-```
+```c
 void function( type* pointer )
 {
    type *pointer, not_pointer;
@@ -77,7 +77,7 @@ void function( type* pointer )
 
 The point is to increase readability as:
 
-```
+```c
 type* pointer, not_pointer;
 ```
 
@@ -87,7 +87,7 @@ Is harder to understand.
 
 We use the following formatting:
 
-```
+```c
 if (something) {
    do_something();
 }
@@ -95,27 +95,27 @@ if (something) {
 
 However if it's more readable and there's only one line we can avoid brackets:
 
-```
+```c
 if (something)
    do_something();
 ```
 
 If there are multiple statements it is recommended to use explicit parenthesis:
 
-```
+```c
 if ((some_value == 0) && (some_pointer != NULL))
    do_something();
 ```
 
 It is recommended to compare against NULL instead of just checking the pointer. For example:
 
-```
+```c
 if (some_pointer != NULL)
 ```
 
 instead of
 
-```
+```c
 if (some_pointer)
 ```
 
@@ -125,7 +125,7 @@ As it's more explicit on the type.
 
 We prefer to check against conditions instead of for conditions to avoid indentation. For example:
 
-```
+```c
 for (i=0;i<N;i++) {
    if (!foo_isBar(&foo[i]))
       continue;
